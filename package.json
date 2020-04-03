@@ -3,13 +3,5 @@
   "displayName": "Editor Button",
   "description": "Allows you to add an editor button to your scripts for easier use in editor",
   "version": "1.0.0",
-  "unity": "2017.0",
-  "unityRelease": "0a12",
-  "dependencies": {},
-  "relatedPackages": {},
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Adamcbrz/UnityEditorButton.git",
-    "revision": "cc4efc02213aa7230e32f1d7b972c54381d52c23"
-  }
+  "unity": "2019.3"
 }
