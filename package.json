@@ -2,6 +2,6 @@
   "name": "com.adambrz.editorbutton",
   "displayName": "Editor Button",
   "description": "Allows you to add an editor button to your scripts for easier use in editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.3"
 }
