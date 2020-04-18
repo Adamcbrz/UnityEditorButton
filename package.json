@@ -1,5 +1,5 @@
 {
-  "name": "com.adamcbrz.editorbutton",
+  "name": "com.adamcbrz.unityeditorbutton",
   "displayName": "Editor Button",
   "description": "Allows you to add an editor button to your scripts for easier use in editor",
   "version": "1.0.1",
