@@ -1,0 +1,17 @@
+{
+    "name": "EditorButton.Editor",
+    "references": [
+        "GUID:5af45867c892bd44a93b2c5837af9d45"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
