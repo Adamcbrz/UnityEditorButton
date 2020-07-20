@@ -1,3 +1,4 @@
+#define EDITORBUTTON
 using UnityEngine;
 
 [System.AttributeUsage(System.AttributeTargets.Method)]
